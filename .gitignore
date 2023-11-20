@@ -163,7 +163,3 @@ cython_debug/
 data/
 
 # Private notebooks
-playground_raska.ipynb
-test_attr.ipynb
-attributes_analysis.ipynbdata
-reviews_analysis.ipynb
